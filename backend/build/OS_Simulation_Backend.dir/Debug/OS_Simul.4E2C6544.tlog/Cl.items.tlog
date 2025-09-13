@@ -1,0 +1,7 @@
+D:\google\backend\main.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\main.obj
+D:\google\backend\core\DeadlockDetector.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\DeadlockDetector.obj
+D:\google\backend\core\DiskSchedular.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\DiskSchedular.obj
+D:\google\backend\core\MemoryManager.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\MemoryManager.obj
+D:\google\backend\core\PageReplacement.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\PageReplacement.obj
+D:\google\backend\core\Schedular.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\Schedular.obj
+D:\google\backend\api\Server.cpp;D:\google\backend\build\OS_Simulation_Backend.dir\Debug\Server.obj
